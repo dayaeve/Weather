@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('/weather1.jpg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
